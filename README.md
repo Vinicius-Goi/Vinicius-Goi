@@ -14,3 +14,11 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+<details align="center">
+  <summary><samp>Stats</samp></summary><br>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Goi&show_icons=true&locale=en&theme=dark" alt="Vinicius-Goi" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Goi&theme=dark" alt="Vinicius-Goi" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Goi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vinicius-Goi" /></p>
