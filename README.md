@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoSpace&pause=1000&random=false&width=435&lines=Hey+There!+I'm+Vinicius👋)](https://git.io/typing-svg) 
 
 <!--
 **Vinicius-Goi/Vinicius-Goi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
