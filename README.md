@@ -29,7 +29,7 @@
 <details align="center">
   <summary><samp>Contacts</samp></summary><br>
   
-  <a href="mailto:goisanchezvinicius@gmail.com?subject=Subject&amp;body=Message" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:viniciusgoisanchez5@gmail.com?subject=Subject&amp;body=Message" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vinícius-goi-sanchez-b33209296/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://web.whatsapp.com/send?phone=5511999993041&text=Hello+from+GitHub" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/viniciusgs06/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
